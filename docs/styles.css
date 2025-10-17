@@ -1,9 +1,55 @@
 /* css styles */
 
-#quarto-document-content {
-  text-align: justify;
+.level1 {
+  position: relative;
+  left: -15%;
 }
 
 h1 {
   text-align: left;
+  letter-spacing: 0;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
+
+#quarto-sidebar {
+ width: 110%; 
+  
+}
+
+#quarto-sidebar .menu-text {
+ color: teal;
+}
+
+.sidebar-item {
+   padding-bottom: 10px;
+
+}
+
+#sidebar-menu-container {
+  width: 15%;
+}
+
+#quarto-document-content {
+  text-align: justify;
+  left: 15%;
+  position: relative;
+}
+
+img {
+  padding-top: 10px;
+  padding-left: 30px;
+  float: right;
+}
+
+.quarto-title {
+  display: none;
+}
+.navbar {
+  background-color: teal;
+}
+
+.nav-footer{
+  background-color: teal;
+  color: white;
 }
