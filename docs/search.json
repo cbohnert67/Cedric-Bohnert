@@ -478,7 +478,7 @@
     "href": "RessourcesOutils.html",
     "title": "Ressources et outils",
     "section": "",
-    "text": "Apprendre les mathématiques aujourd’hui, c’est avancer dans un monde d’abondance.\nLes ressources sont innombrables, mais toutes ne se valent pas.\nCe carnet rassemble les outils et les sources qui m’accompagnent au quotidien — ceux que j’ai vraiment utilisés, ceux qui m’ont fait progresser, parfois lentement, mais sûrement.",
+    "text": "Apprendre les mathématiques aujourd’hui, c’est avancer dans un monde d’abondance.\nLes ressources sont innombrables, mais toutes ne se valent pas.\nCe carnet rassemble les outils et les sources qui m’accompagnent au quotidien — ceux que j’ai vraiment utilisés, ceux qui m’ont fait progresser, parfois lentement, mais sûrement.\n\nUne bonne ressource n’est pas celle qui en dit le plus, mais celle qui aide à comprendre mieux.",
     "crumbs": [
       "Ressources et outils"
     ]
@@ -548,7 +548,7 @@
     "href": "ProjetsExplorations.html",
     "title": "Projets et explorations",
     "section": "",
-    "text": "Les mathématiques ne sont pas qu’un langage de symboles.\nElles sont aussi une manière de comprendre le monde, de décrire ses formes, ses mouvements, ses régularités.\nDans cette rubrique, je veux explorer cette dimension vivante : voir les idées mathématiques à l’œuvre, les traduire en images, en modèles, en programmes.",
+    "text": "Les mathématiques ne sont pas qu’un langage de symboles.\nElles sont aussi une manière de comprendre le monde, de décrire ses formes, ses mouvements, ses régularités.\nDans cette rubrique, je veux explorer cette dimension vivante : voir les idées mathématiques à l’œuvre, les traduire en images, en modèles, en programmes.\n\nModéliser, c’est raconter une histoire vraie avec des équations.",
     "crumbs": [
       "Projets et modélisations",
       "Projets et explorations"
@@ -646,6 +646,37 @@
     "text": "Les mathématiques ne s’apprennent pas seulement en lisant : elles se réécrivent, se digèrent, se reformulent. Ce Carnet de notes est mon espace d’écriture et de compréhension.\nJ’y consigne les notions que j’étudie au fil de ma Licence — définitions, théorèmes, démonstrations, mais aussi mes propres mots, mes dessins mentaux, mes hésitations et parfois mes éclairs de clarté. C’est un lieu de travail lent, personnel, où j’essaie de reformuler pour comprendre.\n\nÉcrire, c’est apprendre deux fois.",
     "crumbs": [
       "Carnet de notes"
+    ]
+  },
+  {
+    "objectID": "RessourcesOutils.html#ressources-et-outils",
+    "href": "RessourcesOutils.html#ressources-et-outils",
+    "title": "Ressources et outils",
+    "section": "",
+    "text": "Apprendre les mathématiques aujourd’hui, c’est avancer dans un monde d’abondance.\nLes ressources sont innombrables, mais toutes ne se valent pas.\nCe carnet rassemble les outils et les sources qui m’accompagnent au quotidien — ceux que j’ai vraiment utilisés, ceux qui m’ont fait progresser, parfois lentement, mais sûrement.\n\nUne bonne ressource n’est pas celle qui en dit le plus, mais celle qui aide à comprendre mieux.",
+    "crumbs": [
+      "Ressources et outils"
+    ]
+  },
+  {
+    "objectID": "ProjetsExplorations.html#projets-et-explorations",
+    "href": "ProjetsExplorations.html#projets-et-explorations",
+    "title": "Projets et explorations",
+    "section": "",
+    "text": "Les mathématiques ne sont pas qu’un langage de symboles.\nElles sont aussi une manière de comprendre le monde, de décrire ses formes, ses mouvements, ses régularités.\nDans cette rubrique, je veux explorer cette dimension vivante : voir les idées mathématiques à l’œuvre, les traduire en images, en modèles, en programmes.\n\nModéliser, c’est raconter une histoire vraie avec des équations.",
+    "crumbs": [
+      "Projets et modélisations",
+      "Projets et explorations"
+    ]
+  },
+  {
+    "objectID": "JournalApprentissage.html#réflexions-et-progrès-au-fil-du-temps.",
+    "href": "JournalApprentissage.html#réflexions-et-progrès-au-fil-du-temps.",
+    "title": "Journal d’apprentissage",
+    "section": "",
+    "text": "Apprendre à 46 ans, c’est un peu comme remonter un fleuve à contre-courant : le mouvement est lent, parfois difficile, mais chaque pas révèle un paysage nouveau.\nCe journal d’apprentissage est la mémoire de ce chemin. J’y note ce que j’étudie au fil des semaines — les concepts que je découvre, ceux qui résistent, et les moments où, soudain, tout s’éclaire.\nJe n’y cherche pas la perfection ni l’exhaustivité, mais la trace vivante du progrès, aussi discret soit-il. Chaque billet est une petite halte : un point de réflexion, un fragment de compréhension, une joie mathématique partagée.\nIci, je raconte les étapes de mon parcours, les outils que j’utilise, les difficultés que je traverse et les émerveillements qui me rappellent pourquoi j’ai repris ce voyage.\n\n“Ce n’est pas la vitesse qui compte, mais la direction.”\n\n\n\n\nPublication\nArticle\nDernière mise à jour\n\n\n\n\nOctobre 2025\nPourquoi réapprendre?\n17/10/2025\n\n\nOctobre 2025\nUn nouveau départ.\n17/10/2025\n\n\nOctobre 2025\nPremier semestre\n18/10/2025",
+    "crumbs": [
+      "Journal d'apprentissage"
     ]
   }
 ]
