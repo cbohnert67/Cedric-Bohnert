@@ -1,0 +1,69 @@
+---
+title: "À propos"
+---
+
+# À propos de ce site
+
+Je m’appelle **Cédric Bohnert**, j’ai 46 ans et je vis à **Strasbourg**.
+
+Après un long détour, j’ai décidé de reprendre mes études de mathématiques. Ce site est le **journal de ce retour à la source**, un lieu où je partage mes réflexions, mes découvertes et mes doutes, dans l’esprit d’un apprenant adulte qui n’a jamais cessé d’aimer comprendre.
+
+## Un parcours en spirale
+
+Initialement, j’ai étudié à l’**École de Chimie de Strasbourg (ECPM)**.
+
+Un accident de parcours à la fin de mes études m’a ![](images/profile.png)malheureusement contraint à tout arrêter.
+
+Ce fut une rupture, mais aussi le début d’un autre chemin. Pendant une dizaine d’années, j’ai travaillé comme **professeur de soutien scolaire à domicile**, en mathématiques et en sciences physiques.
+
+C’est à cette période que j’ai compris combien enseigner, transmettre, expliquer une idée pouvait nourrir la compréhension elle-même.
+
+Par la suite, je me suis tourné vers **l’informatique et le monde associatif**.
+
+Avec des amis, nous avons fondé une association pour promouvoir la **philosophie du libre**, convaincus que le partage des connaissances est un bien commun.
+
+Cette aventure m’a conduit à découvrir la **programmation**, **Python**, **l’analyse de données** et **le machine learning** — autant de domaines où la pensée mathématique trouve une nouvelle vitalité.
+
+## Pourquoi reprendre aujourd’hui
+
+C’est d’abord un **rêve de gamin** : celui de devenir chercheur en chimie analytique, que la vie n’a pas permis d’accomplir à l’époque.
+
+Mais c’est aussi un **besoin intérieur**, celui d’un esprit qui aime apprendre, questionner, approfondir.
+
+Les mathématiques sont devenues le cadre naturel de cette quête — un langage de précision et de beauté, où chaque idée se déploie avec rigueur et poésie.
+
+J’étudie aujourd’hui **l’algèbre et l’analyse** au niveau universitaire, dans le cadre d’une **Licence de Mathématiques à distance** à l’Université **Louis et Marie Pasteur de Besançon**.
+
+J’avance à mon rythme, avec constance, porté par la curiosité et le plaisir d’apprendre.
+
+Mon horizon ? **Aller le plus loin possible**, peut-être jusqu’au doctorat, en **mathématiques appliquées** — là où la théorie rencontre la modélisation et l’ingénierie.
+
+## L’esprit de ce site
+
+Ce site est un **journal d’apprentissage**, mais aussi un **espace de réflexion**.
+
+J’y partage ce que j’étudie, mes lectures, mes essais de modélisation, mes découvertes en programmation et mes moments de doute ou d’émerveillement.
+
+On y trouvera :
+
+-   des **notes de cours vivantes**, écrites avec curiosité et clarté,
+
+-   des **réflexions sur la lenteur d’apprendre**, la rigueur, la discipline,
+
+-   des **liens entre mathématiques, sciences, et humanités**,
+
+-   parfois, des **projets de code** qui donnent forme aux idées.
+
+Ce site s’adresse à tous ceux qui, un jour, se sont demandé s’il était “trop tard” pour apprendre.
+
+Je veux y montrer que l’âge n’est pas un frein à la pensée, mais souvent une chance : celle d’apprendre avec plus de profondeur, de patience et d’humilité.
+
+## En quelques mots
+
+> **“On ne rajeunit pas, mais on peut toujours grandir.”**
+
+Les mathématiques, pour moi, sont une manière d’apprendre à voir plus clair — dans le monde comme en soi-même.
+
+Ce site est ma trace de ce voyage intérieur.
+
+Si mes mots ou mes réflexions peuvent inspirer d’autres à se (re)lancer, alors ce journal aura atteint sa plus belle fonction : **celle de transmettre le goût d’apprendre.**
